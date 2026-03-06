@@ -8,8 +8,6 @@
 ## 📢 Status Update
 The source code is currently undergoing internal review and cleaning. **It will be released here upon the acceptance and publication of the manuscript.** Please stay tuned!
 
-In the meantime, if you have any urgent academic inquiries regarding core implementation details, please feel free to contact the authors.
-
 ---
 
 ## 🌟 Overview
